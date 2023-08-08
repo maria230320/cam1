@@ -1,0 +1,45 @@
+@import url("https://apps.clientify.net/formbuilderembed/scripts/bs-datepicker.css");
+#buttonpopup-iframe {
+	width: 100%;
+	height: 100vh;
+	border: 0;
+}
+#twostepembed-iframe {
+	max-width: 100%;
+}
+#simpleembed-iframe {
+	max-width: 100%;
+}
+#cta-iframe {
+	max-width: 100%;
+}
+img[src*="analytics.clientify.net"] {
+	display: none;
+}
+img[src*=undefined] {
+	display: none;
+}
+.iti.iti--container {
+	z-index: 999999999 !important;
+}
+#_form_btnselectorc {
+	text-align: center;
+}
+#_form_twostepformselectorc {
+	text-align: center;
+}
+#_form_embedformselectorc {
+	text-align: center;
+}
+#_form_ctaformselectorc {
+	text-align: center;
+}
+.grecaptcha-badge {
+	z-index: 99999 !important;
+}
+.commonembedclientify {
+	max-width: 100%;
+}
+[id^=_form_embedformselector] {
+	width: 100%;
+}

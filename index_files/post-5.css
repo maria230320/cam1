@@ -1,0 +1,53 @@
+.elementor-kit-5{--e-global-color-primary:#D60F2C;--e-global-color-secondary:#034363;--e-global-color-text:#4F4F4F;--e-global-color-accent:#FFB73B;--e-global-color-7023d4c:#490606;--e-global-color-4e97d1b:#FFFFFF;--e-global-color-62103c3:#FFFDF0;--e-global-color-f5899db:#9E9E9E;--e-global-typography-primary-font-family:"ITC Clearface Std";--e-global-typography-primary-font-weight:bold;--e-global-typography-secondary-font-family:"Moderat";--e-global-typography-secondary-font-weight:normal;--e-global-typography-text-font-family:"ITC Clearface Std";--e-global-typography-text-font-weight:normal;--e-global-typography-accent-font-family:"Moderat";--e-global-typography-accent-font-weight:normal;--e-global-typography-a3d622f-font-family:"ITC Clearface Std";--e-global-typography-a3d622f-font-size:60px;--e-global-typography-a3d622f-font-weight:900;--e-global-typography-a3d622f-line-height:1.1em;--e-global-typography-4b0fa49-font-family:"Moderat";--e-global-typography-4b0fa49-font-size:25px;--e-global-typography-4b0fa49-font-weight:normal;--e-global-typography-4b0fa49-text-transform:uppercase;color:var( --e-global-color-text );font-family:"ITC Clearface Std", Sans-serif;font-size:15px;background-color:var( --e-global-color-4e97d1b );}.elementor-kit-5 p{margin-bottom:10px;}.elementor-kit-5 h1{color:var( --e-global-color-7023d4c );font-family:"ITC Clearface Std", Sans-serif;font-size:40px;font-weight:900;}.elementor-kit-5 h2{color:var( --e-global-color-7023d4c );font-family:"Moderat", Sans-serif;font-size:50px;}.elementor-kit-5 h3{color:var( --e-global-color-7023d4c );font-family:"ITC Clearface Std", Sans-serif;font-size:40px;}.elementor-kit-5 h4{color:var( --e-global-color-7023d4c );font-family:"Moderat", Sans-serif;font-size:25px;}.elementor-kit-5 h5{color:var( --e-global-color-7023d4c );font-family:"ITC Clearface Std", Sans-serif;font-size:25px;}.elementor-kit-5 h6{color:var( --e-global-color-7023d4c );font-family:"Moderat", Sans-serif;font-size:20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;}.elementor-widget:not(:last-child){margin-bottom:15px;}.elementor-element{--widgets-spacing:15px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-5{--e-global-typography-a3d622f-font-size:35px;--e-global-typography-4b0fa49-font-size:20px;}.elementor-kit-5 h1{font-size:45px;}.elementor-kit-5 h2{font-size:30px;}.elementor-kit-5 h3{font-size:30px;}.elementor-kit-5 h4{font-size:25px;}.elementor-kit-5 h5{font-size:20px;}.elementor-kit-5 h6{font-size:18px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */h4, h5, h6 {
+    margin-bottom: 0px;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ITC Clearface Std';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Bold.eot');
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Bold.eot?#iefix') format('embedded-opentype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Bold.woff2') format('woff2'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Bold.woff') format('woff'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Bold.ttf') format('truetype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Bold.svg#ITCClearfaceStd') format('svg');
+}
+@font-face {
+	font-family: 'ITC Clearface Std';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Heavy.eot');
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Heavy.eot?#iefix') format('embedded-opentype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Heavy.woff2') format('woff2'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Heavy.woff') format('woff'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Heavy.ttf') format('truetype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Heavy.svg#ITCClearfaceStd') format('svg');
+}
+@font-face {
+	font-family: 'ITC Clearface Std';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Regular.eot');
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Regular.eot?#iefix') format('embedded-opentype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Regular.woff2') format('woff2'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Regular.woff') format('woff'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Regular.ttf') format('truetype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/ClearfaceStd-Regular.svg#ITCClearfaceStd') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Moderat';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/Moderat-Regular.eot');
+	src: url('http://empacados.cafeoma.com/wp-content/uploads/Moderat-Regular.eot?#iefix') format('embedded-opentype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/Moderat-Regular.woff2') format('woff2'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/Moderat-Regular.woff') format('woff'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/Moderat-Regular.ttf') format('truetype'),
+		url('http://empacados.cafeoma.com/wp-content/uploads/Moderat-Regular.svg#Moderat') format('svg');
+}
+/* End Custom Fonts CSS */
